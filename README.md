@@ -4,6 +4,6 @@ I learned to use async-await in this project.
 
 API:https://pokeapi.co/
 
-demo:
+demo:https://yusufdmrc.github.io/pokedex/
 
 via: https://www.youtube.com/@betayazilimgunlugu
